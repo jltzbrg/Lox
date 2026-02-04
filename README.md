@@ -165,16 +165,6 @@ Lox/
 
 ---
 
-## 🤝 Contributing
-
-1. Fork → Clone → Create Feature Branch
-2. `swift test` (must pass)
-3. PR to `main`
-
-**Small PRs welcome!** 🦊
-
----
-
 ## 📄 License
 
 [MIT](LICENSE) © 2026
